@@ -1,5 +1,7 @@
 # EvalKit — Customer Service AI Evaluator
 
+**Live demo:** https://evalkit-eta.vercel.app
+
 A browser-based tool for evaluating and comparing customer service response quality using Claude as the scoring engine. Built to demonstrate real-world LLM evaluation patterns grounded in enterprise support experience.
 
 ---
